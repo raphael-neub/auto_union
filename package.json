@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "typescript": "5.1.6"
+  },
+  "description": "Small typescript module to create union types of interfaces, types and enums.",
+  "name": "auto_union",
+  "version": "0.0.1",
+  "author": "Siemens AG Österreich",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^20.4.5"
+  },
+  "scripts": {
+    "build": "tsc -p ."
+  }
+}
